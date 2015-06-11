@@ -1,5 +1,5 @@
 # Find-Bad-Revision
-Just implemented merge sort to find a bad revision of code in a sorted list
+Divide and conquer to find a bad revision of code in a sorted list
 
 Find the Bad Version
 Somewhere in our code one revision has broken our solution.
